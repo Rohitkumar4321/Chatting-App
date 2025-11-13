@@ -1,0 +1,5 @@
+Sample users (use server /auth/register endpoint):
+
+alice@example.com / password
+bob@example.com / password
+charlie@example.com / password
